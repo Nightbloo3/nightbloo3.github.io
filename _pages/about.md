@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huilei Qi is an undergraduate student in the College of Foreign Languages at Ocean University of China. He will soon go to Fudan University to pursue his master’s degree of Applied Linguistics. His research interests include corpus linguistics, second language acquisition, complex dynamics system theory, academic English writing and technology-enhanced language learning. His work appears in _System_ and _Applied Linguistics_.
+Huilei Qi is an undergraduate student in the College of Foreign Languages at Ocean University of China. He will soon go to Fudan University to pursue his master’s degree in Applied Linguistics. His research interests include second language acquisition, complex dynamics system theory, academic English writing, and technology-enhanced language learning. His work appears in _System_ and _Applied Linguistics_.
 
 
 # 📝 Publications 
-[1] Qi, H., & Yang, L. (2023). [Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu]. Applied Linguistics, amad008. https://doi.org/10.1093/applin/amad008
-[2] Qi, H., & Liu, Y. (2022). [Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston]. System, 110, [102905]. https://doi.org/10.1016/j.system.2022.102905
+[1] Qi, H., & Yang, L. (2023). [Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu]. _Applied Linguistics_, amad008. https://doi.org/10.1093/applin/amad008<br>
+[2] Qi, H., & Liu, Y. (2022). [Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston]. _System, 110_, [102905]. https://doi.org/10.1016/j.system.2022.102905
 
 
 # 📖 Educations
