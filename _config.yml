@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Huilei Qi"
+description              : "Huilei Qi is an undergraduate student in the College of Foreign Languages at Ocean Unversity of China "
+repository               : "Nightbloo3/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Huilei Qi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Huilei Qi is an undergraduate student in the College of Foreign Languages at Ocean University of China. He will soon go to Fudan University to pursue his master’s degree of Applied Linguistics. His research interests include corpus linguistics, second language acquisition, complex dynamics system theory, academic English writing and technology-enhanced language learning. His work appears in System and Applied Linguistics."
+  location         : "Qingdao, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Tnm3_dkAAAAJ&hl=zh-CN"
+  email            : "qihuilei@stu.ouc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
