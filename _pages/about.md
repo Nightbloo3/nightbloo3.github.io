@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huilei Qi is an undergraduate student in the College of Foreign Languages at Ocean University of China. He will soon go to Fudan University to pursue his master’s degree in Applied Linguistics. His research interests include second language acquisition, complex dynamics system theory, academic English writing, and technology-enhanced language learning. His work appears in _System_ and _Applied Linguistics_.
+Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I will soon go to Fudan University to pursue my master’s degree in Applied Linguistics. I am very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. My research interests include second language acquisition, complex dynamics system theory, academic English writing, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models can be employed to improve learning efficiency. My work appears in _System_ and _Applied Linguistics_.
 
 
 # 📝 Publications 
@@ -35,4 +35,5 @@ Huilei Qi is an undergraduate student in the College of Foreign Languages at Oce
 
 
 # 💻 Internships
-- *2023.08 - 2023.09*, Beijing Beisen Cloud Computing Co.,Ltd., Qingdao, China.
+- *2023.08 - 2023.09*, Beisen Cloud Computing Co.,Ltd., Qingdao, China.
+- *2023.07 - 2023.08*, The Institute of Party History and Literature，Dongying China.
