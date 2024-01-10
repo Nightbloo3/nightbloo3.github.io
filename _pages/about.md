@@ -36,4 +36,4 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 
 # 💻 Internships
 - *2023.08 - 2023.09*, Beisen Cloud Computing Co.,Ltd., Qingdao, China.
-- *2023.07 - 2023.08*, The Institute of Party History and Literature，Dongying China.
+- *2023.07 - 2023.08*, The Institute of Party History and Literature, Dongying, China.
