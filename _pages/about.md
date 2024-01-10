@@ -21,8 +21,8 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 
 
 # 📝 Publications 
-[1] Qi, H., & Yang, L. (2023). [Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu]. _Applied Linguistics_, amad008.<br>
-[2] Qi, H., & Liu, Y. (2022). [Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston]. _System, 110_, [102905]. 
+[1] [Qi, H., & Yang, L. (2023). [Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu]. _Applied Linguistics_, amad008.](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)<br>
+[2] [Qi, H., & Liu, Y. (2022). [Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston]. _System, 110_, [102905].](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877) 
 
 
 # 📖 Educations
