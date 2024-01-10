@@ -27,7 +27,7 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 
 # 📖 Educations
 - *2024.09 - 2027.06* (soon), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
-- *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China] (https://www.ouc.edu.cn/)
+- *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)
   
 
 # 💬 Presentations and Participations
