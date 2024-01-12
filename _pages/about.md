@@ -38,7 +38,7 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 - Larsen-Freeman, D., & Cameron, L. (2008). _Complex Systems and Applied Linguistics._ Oxford: Oxford University Press.
 - 雷蕾. (2016). 应用语言学研究: 设计与方法. 武汉: 华中科技大学出版社. 
 - Lu, X. (2023). _Corpus linguistics and second language acquisition: Perspectives, issues, and findings._ New York: Routledge.
-- Hunston S. (2022)._ Corpora in Applied Linguistics (2nd)._ Cambridge: Cambridge University Press.
+- Hunston S. (2022). _Corpora in Applied Linguistics (2nd)_. Cambridge: Cambridge University Press.
 
 
 # 💻 Internships
