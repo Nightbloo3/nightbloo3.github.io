@@ -25,8 +25,8 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 - *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)
 
 # 📝 Publications 
-- [1] Qi, H., & Yang, L. (2023). [[Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)]. _Applied Linguistics_, amad008.]<br>
-- [2] Qi, H., & Liu, Y. (2022). [[Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877)]. _System, 110_, [102905].] 
+- **Qi, H.**, & Yang, L. (2023). [[Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)]. _Applied Linguistics_, amad008.]<br>
+- **Qi, H.**, & Liu, Y. (2022). [[Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877)]. _System, 110_, [102905].] 
 
 
 # 💬 Presentations and Participations
@@ -34,11 +34,11 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 
 
 # 📕 Reading List
-- [1] Verspoor, M. H., de Bot, K., & Lowie, W. M. (2011). _A Dynamic Approach to Second Language Development: Methods and Techniques_. John Benjamins Publishers. [ongoing]
-- [2] Larsen-Freeman, D., & Cameron, L. (2008). _Complex Systems and Applied Linguistics._ Oxford: Oxford University Press.
-- [3] 雷蕾. (2016). 应用语言学研究: 设计与方法. 武汉: 华中科技大学出版社. 
-- [4] Lu, X. (2023). _Corpus linguistics and second language acquisition: Perspectives, issues, and findings._ New York: Routledge.
-- [5] Hunston S. (2022)._ Corpora in Applied Linguistics (2nd)._ Cambridge: Cambridge University Press.
+- Verspoor, M. H., de Bot, K., & Lowie, W. M. (2011). _A Dynamic Approach to Second Language Development: Methods and Techniques_. John Benjamins Publishers. [ongoing]
+- Larsen-Freeman, D., & Cameron, L. (2008). _Complex Systems and Applied Linguistics._ Oxford: Oxford University Press.
+- 雷蕾. (2016). 应用语言学研究: 设计与方法. 武汉: 华中科技大学出版社. 
+- Lu, X. (2023). _Corpus linguistics and second language acquisition: Perspectives, issues, and findings._ New York: Routledge.
+- Hunston S. (2022)._ Corpora in Applied Linguistics (2nd)._ Cambridge: Cambridge University Press.
 
 
 # 💻 Internships
