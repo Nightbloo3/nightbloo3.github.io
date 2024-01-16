@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I will soon go to Fudan University to pursue my master’s degree in Applied Linguistics. I am very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. My research interests include second language acquisition, complex dynamics system theory, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models can be employed to improve learning efficiency. My work appears in _System_ and _Applied Linguistics_.
+Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. I will soon go to Fudan University to pursue my master’s degree in Applied Linguistics. My research interests include second language acquisition, complex dynamics system theory, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models can be employed to improve learning efficiency. My work appears in _System_ and _Applied Linguistics_.
 
 
 # 📖 Education
@@ -25,8 +25,8 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 - *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)
 
 # 📝 Publications 
-- **Qi, H.**, & Yang, L. (2023). [[Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)]. _Applied Linguistics_, amad008.]<br>
-- **Qi, H.**, & Liu, Y. (2022). [[Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877)]. _System, 110_, [102905].] 
+- **Qi, H.**, & Yang, L. (2023). [[Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)]. _Applied Linguistics_, amad008.<br>
+- **Qi, H.**, & Liu, Y. (2022). [[Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877)]. _System, 110_, [102905].
 
 
 # 💬 Presentations and Participations
