@@ -35,7 +35,7 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 
 
 # 📕 Reading List
-- Ortega, L.& Zhao H. (2017) _Complexity theory and language development: In celebration of Diane Larsen-Freeman._Amsterdam and Philadelphia: John Benjamins Publishers. [ongoing]
+- Ortega, L.& Zhao H. (2017). _Complexity theory and language development: In celebration of Diane Larsen-Freeman._ Amsterdam and Philadelphia: John Benjamins Publishers. [ongoing]
 - Verspoor, M. H., de Bot, K., & Lowie, W. M. (2011). _A dynamic approach to second language development: Methods and techniques_. Amsterdam and Philadelphia: John Benjamins Publishers.
 - Larsen-Freeman, D., & Cameron, L. (2008). _Complex systems and applied linguistics._ Oxford: Oxford University Press.
 - 雷蕾. (2016). 应用语言学研究: 设计与方法. 武汉: 华中科技大学出版社. 
