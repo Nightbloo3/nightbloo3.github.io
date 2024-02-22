@@ -25,8 +25,7 @@ organizations:
     URL: http://www.ouc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by Prof. Yingying Liu during my undergraduate years. Starting from August 2024, I am scheduled to commence my master’s degree in Applied Linguistics at Fudan University.<br><br> My research interests include second language acquisition, complex dynamics system theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models(LLMs) can be employed in language learning, teaching and assessment. My work appears in System and Applied Linguistics.<br><br> If you share similar interests, feel free to contact me via email or Wechat.
-
+bio: Undergraduate of English (linguistics), focusing on SLA, CDST and EAP.
 
 
 # Interests to show in About widget
@@ -122,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by Prof. Yingying Liu during my undergraduate years. Starting from August 2024, I am scheduled to commence my master’s degree in Applied Linguistics at Fudan University.<br><br> My research interests include second language acquisition, complex dynamics system theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models(LLMs) can be employed in language learning, teaching and assessment. My work appears in System and Applied Linguistics.<br><br> If you share similar interests, feel free to contact me via email or Wechat.
 {style="text-align: justify;"}
