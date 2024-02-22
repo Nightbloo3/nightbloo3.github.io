@@ -1,16 +1,14 @@
 ---
-title: "Examining longitudinal changes in citation practices: A corpus-based analysis of L2 academic writing"
+title: "Examining longitudinal changes in citation practices: A corpus-based analysis of L2 academic writing [under review]"
 authors:
 - Liu,Y
-- Qi, H
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Qi, H*
+
 date: "2024"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,7 +17,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*_Journal of Second Language Studies_"
-publication_short: "JSLS"
+publication_short: "_Journal of Second Language Studies_"
 
 
 
@@ -30,8 +28,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -68,5 +66,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
