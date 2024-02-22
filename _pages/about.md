@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. In August 2024, I will go to Fudan University to pursue my master’s degree in Applied Linguistics.<br> <br> My research interests include second language acquisition, complex dynamics system theory, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models can be employed to improve learning efficiency. My work appears in _System_ and _Applied Linguistics_.
+Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. Starting from August 2024, I am scheduled to commence my master's degree in Applied Linguistics at Fudan University.<br> <br> My research interests include second language acquisition, complex dynamics system theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models can be employed to improve learning efficiency. My work appears in _System_ and _Applied Linguistics_.<br> If you share similar interest, feel free to contact me via email or Wechat.
+
 
 
 # 📖 Education
-- *2024.09 - 2027.06* (soon), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
+- *2024.09 - 2027.06* (expected), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
 - *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)
+
 
 # 📝 Publications 
 - Liu,Y., & **Qi, H***. (2024). Examining longitudinal changes in citation practices: A corpus-based analysis of L2 academic writing. _Journal of Second Language Studies_. [under review]
