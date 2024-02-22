@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 綦惠磊
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Huilei Qi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Huilei
+last_name: Qi
 
 # Status emoji
 status:
@@ -17,34 +17,40 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate of English(linguistics)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ocean Univerisity of China
+    URL: http://www.ouc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by Prof. Yingying Liu during my undergraduate years. Starting from August 2024, I am scheduled to commence my master’s degree in Applied Linguistics at Fudan University.<br><br>
+
+My research interests include second language acquisition, complex dynamics system theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models(LLMs) can be employed in language learning, teaching and assessment. My work appears in System and Applied Linguistics.<br><br>
+
+If you share similar interests, feel free to contact me via email or Wechat.
+
+
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Corpus linguistics
+  - Second language acquisition
+  - Complex dynamics system theory
+  - English for academic purposes
+  - technology-enhanced language learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA Applied Linguistics
+      institution: Fudan University
+      year: 2024.08-2027.06(expected)
+    - course: BA English
+      institution: Ocean University of China
+      year: 2019.08-2024.06
+   
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,15 +59,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: SPSS
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
         icon: database
@@ -75,12 +81,12 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Video games (league of legends)
         description: ''
-        percent: 100
+        percent: 90
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
         icon: camera-retro
