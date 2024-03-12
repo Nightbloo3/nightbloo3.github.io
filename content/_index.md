@@ -85,7 +85,6 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  
   - block: portfolionford
         region: CA
         postcode: '94305'
