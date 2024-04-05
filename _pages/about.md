@@ -30,7 +30,7 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 - **Qi, H.**, & Liu, Y*. (2022). [[Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877)]. _System, 110_, [102905].
 
 
-# 💬 Conference presentations
+# 💬 Conference Presentations
 - *2023.10*, A Longitudinal Study of Citation Practices in L2 Academic Writing (with Prof. Yingying Liu). The 10th International Conference on Second Language Acquisition Research in China, Jinan, China.
 
 # 💻 Internships
