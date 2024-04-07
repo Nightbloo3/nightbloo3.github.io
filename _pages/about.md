@@ -19,18 +19,18 @@ redirect_from:
 
 Currently I am an undergraduate student in the College of Foreign Languages at Ocean University of China. I am very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. Starting in August 2024, I am scheduled to commence my master's degree in Applied Linguistics at Fudan University.<br> <br> My research interests are primarily in second language acquisition, Complex Dynamics System Theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models(LLMs) can be employed in language learning, teaching, and assessment. My work appears in _System_ and _Applied Linguistics_. For more information on my academic outputs, please visit my [research gate page](https://www.researchgate.net/profile/Huilei-Qi).<br>
 
+# 📖 Education
 <div style="display: flex; align-items: center; margin-bottom: 10px;">  
   <img src="校徽1.png" style="flex: 0 0 auto; margin-right: 10px; max-width: 50px; height: auto;">  
   <div>  
-    # 📖 Education  
-    - *2024.09 - 2027.06* (expected), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)  
+    2024.09 - 2027.06 (expected), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)  
   </div>  
 </div>  
   
 <div style="display: flex; align-items: center;">  
   <img src="校徽2.png" style="flex: 0 0 auto; margin-right: 10px; max-width: 50px; height: auto;">  
   <div>  
-    - *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)  
+    2019.09 - 2024.06, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)  
   </div>  
 </div>
 
