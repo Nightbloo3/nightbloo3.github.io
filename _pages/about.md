@@ -21,6 +21,7 @@ Currently I am an undergraduate student in the College of Foreign Languages at O
 
 # 📖 Education
 ！[avatar](校徽1.png) 2024.09 - 2027.06 (expected), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
+！<img src = "校徽1.png"> 2024.09 - 2027.06 (expected), MA, [Applied Linguistics](https://dfll.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/)
 
 
 # 📖 Education
