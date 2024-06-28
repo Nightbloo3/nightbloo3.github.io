@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huilei Qi"
-description              : "Undergraduate of English (linguistics).<br> Focusing on SLA, CDST and EAP"
+description              : "Postgraduate of Applied Linguistics.<br> Focusing on SLA, CDST, and EAP"
 repository               : "Nightbloo3/Huilei-Qi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huilei Qi"
   avatar           : "images/favicon.png"
-  bio              : "College of Foreign Languages<br>Ocean University of China"
-  location         : "Qingdao, China"
+  bio              : "College of Foreign Languages and Literature<br>FuDan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Tnm3_dkAAAAJ&hl=zh-CN"
