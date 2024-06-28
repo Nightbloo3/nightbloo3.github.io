@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am a Master's candidate of Applied Linguistics in the College of Foreign Languages and Literature at Fudan University. I received my bachelor's degree of Literature from Ocean University of China, where I was very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. <br> <br> My research interests are primarily in second language acquisition, Complex Dynamics System Theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models (LLMs) can be employed in language learning, teaching, and assessment. My work appears in _System_ and _Applied Linguistics_. For more information on my academic outputs, please visit my [research gate page](https://www.researchgate.net/profile/Huilei-Qi).<br>
+Currently I am a Master's candidate of Applied Linguistics in the College of Foreign Languages and Literature at Fudan University. I received my bachelor's degree of Art from Ocean University of China, where I was very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. <br> <br> My research interests are primarily in second language acquisition, Complex Dynamics System Theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models (LLMs) can be employed in language learning, teaching, and assessment. My work appears in _System_ and _Applied Linguistics_. For more information on my academic outputs, please visit my [research gate page](https://www.researchgate.net/profile/Huilei-Qi).<br>
 
 
 # 📖 Education
@@ -56,13 +56,6 @@ Currently I am a Master's candidate of Applied Linguistics in the College of For
 - *2020.11*, Third Class Scholarship (Top 30%).
 - *2020.07*, Second Prize in the 4th Shandong Translation Competition.
 
-# 📕 Reading List
-- Ortega, L.& Zhao H. (2017). _Complexity theory and language development: In celebration of Diane Larsen-Freeman._ Amsterdam and Philadelphia: John Benjamins Publishers. 
-- Verspoor, M. H., de Bot, K., & Lowie, W. M. (2011). _A dynamic approach to second language development: Methods and techniques_. Amsterdam and Philadelphia: John Benjamins Publishers.
-- Larsen-Freeman, D., & Cameron, L. (2008). _Complex systems and applied linguistics._ Oxford: Oxford University Press.
-- 雷蕾. (2016). 应用语言学研究: 设计与方法. 武汉: 华中科技大学出版社. 
-- Lu, X. (2023). _Corpus linguistics and second language acquisition: Perspectives, issues, and findings._ New York: Routledge.
-- Hunston S. (2022). _Corpora in applied linguistics (2nd)_. Cambridge: Cambridge University Press.
 
 
 
