@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am a Master's candidate of Applied Linguistics in the College of Foreign Languages and Literature at Fudan University. I received my bachelor's degree of Art from Ocean University of China, where I was very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. <br> <br> My research interests are primarily in second language acquisition, Complex Dynamics System Theory, corpus linguistics, English for Academic Purposes, and technology-enhanced language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in computer-assisted language learning, such as how Large Language Models (LLMs) can be employed in language learning, teaching, and assessment. My work appears in _System_ and _Applied Linguistics_. For more information on my academic outputs, please visit my [research gate page](https://www.researchgate.net/profile/Huilei-Qi).<br>
+Currently I am a Master's candidate of Applied Linguistics in the College of Foreign Languages and Literature at Fudan University. I received my bachelor's degree of Art from Ocean University of China, where I was very fortunate to be advised by [Prof. Yingying Liu](https://flc.ouc.edu.cn/2021/1022/c12471a353865/page.htm) during my undergraduate years. <br> <br> My research interests are primarily in second language acquisition, Complex Dynamic Systems Theory, corpus linguistics, English for Academic Purposes, and intelligent computer-assisted language learning. I am particularly interested in examining second language development (especially L2 writing) by means of a corpus-based approach. I also have a longstanding interest in technology-enhanced language learning, such as how Large Language Models (LLMs) can be employed in language learning, teaching, and assessment. My work appears in _System_ and _Applied Linguistics_. For more information on my academic outputs, please visit my [research gate page](https://www.researchgate.net/profile/Huilei-Qi).<br>
 
 
 # 📖 Education
@@ -25,7 +25,8 @@ Currently I am a Master's candidate of Applied Linguistics in the College of For
 - *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)
 
 # 📝 Publications 
-- Liu,Y., & **Qi, H***. (2024). Examining longitudinal changes in citation practices: A corpus-based analysis of L2 academic writing. _Journal of Second Language Studies_. [under review]
+- Liu, Y., Lu, X* & **Qi, H**. (2024). Comparing GPT-based approaches in automated writing evaluation. _Assessing Writing._[under review]
+- Liu, Y., & **Qi, H***. (2024). Examining longitudinal changes in citation practices: A corpus-based analysis of L2 academic writing. _Journal of Second Language Studies_. [under review]
 - **Qi, H.**, & Yang, L*. (2023). [[Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)]. _Applied Linguistics_, amad008.<br>
 - **Qi, H.**, & Liu, Y*. (2022). [[Review of the book Corpora in Applied Linguistics (2nd ed.), by Susan Hunston](https://www.sciencedirect.com/science/article/abs/pii/S0346251X22001877)]. _System, 110_, [102905].
 
