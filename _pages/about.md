@@ -25,7 +25,6 @@ Currently I am a Master's candidate of Applied Linguistics in the College of For
 - *2019.09 - 2024.06*, BA, [English](https://flc.ouc.edu.cn/main.htm), [Ocean University of China](https://www.ouc.edu.cn/)
 
 # 📝 Publications 
-- Liu, Y., **Qi, H** & Lu, X* (2024). Enhancing GPT-based automated essay scoring: The impact of fine-tuning and linguistic complexity measures. _System._ [under review]
 - Liu, Y., Lu, X* & **Qi, H**. (2024). Comparing GPT-based approaches in automated writing evaluation. _Assessing Writing._ [under review]
 - Liu, Y., & **Qi, H***. (forthcoming). Examining longitudinal changes in citation practices: A corpus-based analysis of L2 academic writing. _Journal of Second Language Studies_.
 - **Qi, H.**, & Yang, L*. (2023). [[Review of the book Corpus Linguistics and Second Language Acquisition: Perspectives, Issues, and Findings, by Xiaofei Lu](https://academic.oup.com/applij/advance-article-abstract/doi/10.1093/applin/amad008/7076586?redirectedFrom=fulltext)]. _Applied Linguistics_, amad008.<br>
